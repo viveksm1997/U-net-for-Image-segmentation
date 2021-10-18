@@ -4,7 +4,7 @@ Project Title : Semantic Segmentation for Self Driving using the data captured v
 
 Project Objectives:
 
-1. Create a Model to predict semantic segmentations of CARLA images
+1.Create a Model to predict semantic segmentations of CARLA images
  
 2.Predict masks using the model and compare with ground-truth masks
 
