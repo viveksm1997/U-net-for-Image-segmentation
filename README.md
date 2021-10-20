@@ -1,6 +1,6 @@
 # U-net-for-Image-segmentation
 
-Project Title : Semantic Segmentation for Self Driving using the data captured via CARLA  self-driving car simulator.
+Project Title : Semantic Segmentation for Self Driving, using the data captured via CARLA  self-driving car simulator.
 
 Project Objectives:
 
